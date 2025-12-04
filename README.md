@@ -171,6 +171,14 @@ That means I need you! I'm sure you want to make this project better anyway.
 
 ==> [How to contribute](https://github.com/0x192/universal-android-debloater/wiki)
 
+## Contributors
+
+Thanks to everyone who contributed to this project! The full list of contributors can be found on GitHub:
+
+https://github.com/DedsecX999/Android-Debloater-from-DedsecX999/graphs/contributors
+
+If you'd like to be listed here, please open a pull request or submit a patch. You can also add a CONTRIBUTORS.md file to the repository with more details.
+
 ## Special thanks
 
 - [@mawilms](https://github.com/mawilms) for his LotRO plugin manager ([Lembas](https://github.com/mawilms/lembas))
